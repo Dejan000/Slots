@@ -10,4 +10,15 @@ Projekat nije kompletno zavrsen u planu je da se dodaju:
    
 4. Dorada design-a.
    
-5. Zamena slika sa "znakovima".
+5. Zamena "znakova" sa slikama.
+
+Username: Miroslav Password: Miroslav
+
+Slot 1 Linije:
+
+|[x] [x] [x]|   |[ ] [ ] [ ]|  |[ ] [ ] [ ]|  |[x] [ ] [ ]|   
+|[ ] [ ] [ ]|   |[x] [x] [x]|  |[ ] [ ] [ ]|  |[ ] [x] [ ]|
+|[ ] [ ] [ ]|   |[ ] [ ] [ ]|  |[x] [x] [x]|  |[ ] [ ] [x]|
+
+
+

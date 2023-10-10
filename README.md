@@ -17,9 +17,7 @@ Username: Miroslav Password: Miroslav
 Slot 1 Linije:
 
 |[x] [x] [x]|   |[ ] [ ] [ ]|  |[ ] [ ] [ ]|  |[x] [ ] [ ]| 
-
 |[ ] [ ] [ ]|   |[x] [x] [x]|  |[ ] [ ] [ ]|  |[ ] [x] [ ]|
-
 |[ ] [ ] [ ]|   |[ ] [ ] [ ]|  |[x] [x] [x]|  |[ ] [ ] [x]|
 
 
